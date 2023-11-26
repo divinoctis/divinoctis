@@ -5,5 +5,5 @@
 <div align="center">
 <h3><a href="https://www.youtube.com/watch?v=uE-1RPDqJAY&ab_channel=AaronHardbarger" style=color:"red">ᖭི༏ᖫྀ</a></h3>
   <br>
-<img src="https://files.catbox.moe/lo1lhm.gif" width="800" frameBorder="0"></img>
+<img src="https://files.catbox.moe/lo1lhm.gif" width="700" frameBorder="0"></img>
 </div>
